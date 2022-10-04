@@ -1,5 +1,5 @@
 # Code Outline Overview
-
+The code in this Repo mainly demonstrates the basics of Lua, aiming to master Lua's language features and basic applications. This code is writen in free and spare time and all based on my own experience and mainly refer to Lua official documents. Readers will benefit a lot from reading step by step.
 ## Basic1
 
 + Variable
